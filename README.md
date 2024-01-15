@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hllsebastian a junior developer
+- 👋 Hi, I’m @hllsebastian a Flutter developer
 - 👀 I’m interested in mobile development with Flutter and back end with DotNet
-- 🌱 I’m currently learning Flutter and DotNet
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about deploy of mobile apps
+- 💞️ I’m looking to collaborate on mobile projects
 - 📫 How to reach me: hllsebastian@gmail.com
 
 <!---
